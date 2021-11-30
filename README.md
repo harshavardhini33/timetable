@@ -6,7 +6,7 @@
 
 <body>
 <font color="BLACK">
-    <table border = "3" cellospacing = "2" bordercolor = "BLACK" bgcolor= "PINK" >
+    <table border = "3" cellospacing = "2" bordercolor = "BLACK" bgcolor= "white" >
     
      <tr>
         <th colspan = "8"> TIME TABLE</th>
@@ -78,6 +78,3 @@
 
 </body>
 </html>
-
-~~~
-# OUPUT
