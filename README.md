@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-[8:17 pm, 03/12/2021] Pavithra: # Experiment_Time_Table
 
 ## AIM
 To Write a html webpage page to display your timetable.
