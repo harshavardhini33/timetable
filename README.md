@@ -92,5 +92,5 @@ Execute the program
 
 # OUPUT
 ![Github logo](logo.png)
-![Github logo](webtech.jpeg)
+![Github logo](WEBTECH.jpeg)
 =======
