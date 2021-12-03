@@ -109,7 +109,7 @@ STEP 3
 Add your timetable
 
 STEP 4
-Execute the program
+Execute the program.
 
 CODE\
 >>>>>>> fb7c236c719a598f343a041c2b65f7163247a63d
